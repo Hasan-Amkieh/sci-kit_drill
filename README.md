@@ -3,6 +3,7 @@ A sci-kit drill project collects a dirt sample from the ground, then fills in th
 Additionally, there is an IR distance sensor measuring the distance of the elevator to the bottom pad of the drill, as many steps could be missed by the elevator due to drill colliding with the ground, and due to the sheer weight of the drill when going back to its original position at the top.
 
 A full demonstration of the drill: 
+
 [![Drill demo](https://img.youtube.com/vi/H6HqsQK0O7s/0.jpg)](https://www.youtube.com/watch?v=H6HqsQK0O7s)
 
 Circuit overview (apoligies): 🍝🍝🍝
