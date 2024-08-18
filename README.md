@@ -4,7 +4,8 @@ Additionally, there is an IR distance sensor measuring the distance of the eleva
 
 A full demonstration of the drill: 
 
-[![Drill demo](https://img.youtube.com/vi/H6HqsQK0O7s/0.jpg)](https://youtu.be/H6HqsQK0O7s)
+[![Drill demo]()](https://youtu.be/H6HqsQK0O7s)
+[![Drill demo](https://img.youtube.com/vi/H6HqsQK0O7s/0.jpg)](https://github.com/Hasan-Amkieh/sci-kit_drill/raw/main/drill%20video.mp4)
 
 Circuit overview (apoligies): 🍝🍝🍝
 ![drill circuit](https://github.com/user-attachments/assets/34c9777f-c85b-4123-9600-d55ee2266779)
